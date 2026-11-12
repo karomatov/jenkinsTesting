@@ -1,0 +1,21 @@
+{
+  "name": "jenkinstesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:report": "npx playwright show-report",
+    "test:debug": "npx playwright test --debug",
+    "test:report:open": "npx playwright show-report",
+    "test:specific": "npx playwright test tests/firstTest.spec.ts",
+    "test:tags": "npx playwright test --grep @smoke"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
