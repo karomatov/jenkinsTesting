@@ -14,11 +14,11 @@ test.describe('Group Practice', () => {
         test.expect(title).toBe('Checkout | Cydeo');
     });
 
-    test('Test 2', async ({page}) => {
-        await page.goto('https://www.google.com');
-        await page.waitForTimeout(4000);
-        let url = await page.url();
-        console.log('Page URL:', url);
-    });
+    // test('Test 2', async ({page}) => {
+    //     await page.goto('https://www.google.com');
+    //     await page.waitForTimeout(4000);
+    //     let url = await page.url();
+    //     console.log('Page URL:', url);
+    // });
 });
 
