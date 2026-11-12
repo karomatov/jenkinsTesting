@@ -1,0 +1,50 @@
+- generic [ref=f5e9]:
+  - generic [ref=f5e11]:
+    - generic [ref=f5e12]:
+      - generic [ref=f5e13]: "1"
+      - generic [ref=f5e14]: Start Application
+    - generic [ref=f5e17]:
+      - generic [ref=f5e18]: "2"
+      - generic [ref=f5e19]: Payment plan
+    - generic [ref=f5e21]:
+      - generic [ref=f5e22]: "3"
+      - generic [ref=f5e23]: Review
+  - generic [ref=f5e25]:
+    - generic [ref=f5e26]:
+      - generic [ref=f5e29]:
+        - generic:
+          - paragraph
+        - generic [ref=f5e30]: $
+        - paragraph [ref=f5e33]: Flexible payments plan available
+        - generic [ref=f5e34]: Program Start Date
+      - generic [ref=f5e38]:
+        - paragraph [ref=f5e39]: Enter personal details
+        - generic [ref=f5e40]:
+          - generic [ref=f5e45]:
+            - generic [ref=f5e46]:
+              - text: First Name
+              - generic [aria-hidden] [ref=f5e47]: "*"
+            - textbox "First Name" [ref=f5e49]
+          - generic [ref=f5e55]:
+            - generic [ref=f5e56]:
+              - text: Last Name
+              - generic [aria-hidden] [ref=f5e57]: "*"
+            - textbox "Last Name" [ref=f5e59]
+        - generic [ref=f5e61]:
+          - generic [ref=f5e66]:
+            - generic [ref=f5e67]:
+              - text: Email Address
+              - generic [aria-hidden] [ref=f5e68]: "*"
+            - textbox "Email Address" [ref=f5e70]
+          - generic [ref=f5e76]:
+            - generic [ref=f5e77]:
+              - text: Phone
+              - generic [aria-hidden] [ref=f5e78]: "*"
+            - textbox "Phone" [ref=f5e80]
+        - generic [ref=f5e87] [cursor=pointer]:
+          - generic: How did you hear about us?
+          - combobox "How did you hear about us?" [ref=f5e90]
+      - button "Next" [ref=f5e100] [cursor=pointer]
+    - generic [ref=f5e101]:
+      - separator [ref=f5e102]
+      - paragraph [ref=f5e103]: Need help? Contact us at enrollment@cydeo.com

@@ -1,0 +1,6 @@
+[   46039ms] [WARNING] Origin trial controlled feature not enabled: 'tools'. @ https://js.stripe.com/v3/:0
+[   46873ms] [WARNING] [Stripe.js] You have not registered or verified the domain, so the following payment methods are not enabled in the Payment Element: 
+
+- apple_pay
+
+Please follow https://stripe.com/docs/payments/payment-methods/pmd-registration to register and verify the domain. @ https://js.stripe.com/v3/fingerprinted/js/controller-with-preconnect-3cc7523b88ba59ab4409af26eae02a1f.js:0

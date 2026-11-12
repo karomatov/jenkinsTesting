@@ -1,0 +1,74 @@
+- generic [ref=e6]:
+  - generic [ref=e7]:
+    - generic [ref=e105]:
+      - paragraph [ref=e107]: Secure checkout
+      - generic [ref=e110]:
+        - text: Program
+        - paragraph [ref=e111]:
+          - link "Test Automation with Selenium" [ref=e112] [cursor=pointer]:
+            - /url: https://www.cydeo.com
+    - generic [ref=e113]:
+      - link [ref=e114] [cursor=pointer]:
+        - /url: https://cydeo.com
+      - link "Terms and conditions" [ref=e116] [cursor=pointer]:
+        - /url: https://cydeo.com/terms-conditions/
+      - link "Privacy Policy" [ref=e117] [cursor=pointer]:
+        - /url: https://cydeo.com/privacy-policy/
+      - link "Disclaimer" [ref=e118] [cursor=pointer]:
+        - /url: https://cydeo.com/disclaimer/
+      - link "Cookie Policy" [ref=e119] [cursor=pointer]:
+        - /url: https://cydeo.com/cookie-policy/
+  - generic [ref=e9]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e13]: "1"
+        - generic [ref=e14]: Start Application
+      - generic [ref=e17]:
+        - generic [ref=e18]: "2"
+        - generic [ref=e19]: Payment plan
+      - generic [ref=e21]:
+        - generic [ref=e22]: "3"
+        - generic [ref=e23]: Review
+    - text: "* * * *"
+    - generic [ref=e126]:
+      - generic [ref=e127]:
+        - paragraph [ref=e128]: Choose a payment plan
+        - generic [ref=e129]:
+          - generic [ref=e131]:
+            - button "Upfront $500 $400 pay once electric_bolt $100 Upfront discount Coupons available" [expanded] [active] [ref=e132] [cursor=pointer]:
+              - generic [ref=e134]:
+                - generic [ref=e135]: Upfront
+                - generic [ref=e136]:
+                  - generic [ref=e137]:
+                    - generic [ref=e138]: $500
+                    - generic [ref=e139]: $400 pay once
+                  - generic [ref=e144]:
+                    - generic [ref=e145]: electric_bolt
+                    - text: $100 Upfront discount
+                  - generic [ref=e146]: Coupons available
+            - region "Upfront $500 $400 pay once electric_bolt $100 Upfront discount Coupons available" [ref=e168]:
+              - generic [ref=e170]:
+                - generic [ref=e171]:
+                  - generic [ref=e172]: Base price
+                  - generic [ref=e173]: $500
+                - generic [ref=e174]:
+                  - generic [ref=e175]: Upfront discount
+                  - generic [ref=e176]: "- $100"
+                - button "I have a promo code" [ref=e177] [cursor=pointer]
+                - generic [ref=e178]:
+                  - generic [ref=e179]:
+                    - generic [ref=e180]: Subtotal
+                    - generic [ref=e181]: $400
+                  - generic [ref=e182]: excluding fees
+          - button "5 Installments $100 per month Coupons available" [ref=e152] [cursor=pointer]:
+            - generic [ref=e154]:
+              - generic [ref=e155]: 5 Installments
+              - generic [ref=e156]:
+                - generic [ref=e157]: $100 per month
+                - generic [ref=e158]: Coupons available
+      - generic [ref=e162]:
+        - generic [ref=e163]: Back
+        - button "Next" [ref=e164] [cursor=pointer]
+      - generic [ref=e165]:
+        - separator [ref=e166]
+        - paragraph [ref=e167]: Need help? Contact us at enrollment@cydeo.com
